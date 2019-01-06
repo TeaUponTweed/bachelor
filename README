@@ -1,0 +1,2 @@
+run bachelor.py $FILENAME to launch a dialague for ranking candiates which will be stored in $FILENAME
+run ranking.py $FILENAME to get a ranking out of your decisions stored in $FILENAME
